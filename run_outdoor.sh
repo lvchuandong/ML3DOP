@@ -1,0 +1,11 @@
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_between_zhensheng_and_huagang-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_dark-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_dark_library-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_fengyu_north-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_huagang-zhensheng_west-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_museum-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_N1_west-N5_north-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_N5_north-N1_west-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_playground_south-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_zhensheng_north-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml
+python main.py --path /mnt/e/3DOPFormerDataset/lidar_pcap/lidar_outdoor_zhensheng_north-N1_north-filter.pcap --out-dir /mnt/e/3DOPFormerDataset/lidar --config params.yaml

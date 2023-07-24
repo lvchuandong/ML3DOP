@@ -1,0 +1,7 @@
+data-port: 2369  # make sure this data-port is yours, you can check your data-port with wireshark
+
+txt: True  #  Ture means save txt files
+pcd: True  #  Ture means save pcd files
+
+from: 0  # first packet to read
+to: -1   # last packet to read

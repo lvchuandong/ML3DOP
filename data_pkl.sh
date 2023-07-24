@@ -1,0 +1,1 @@
+python data_pkl.py --imgs_path /mnt/e/3DOPFormerDataset/imgs --lidar_path /mnt/e/3DOPFormerDataset/lidar
