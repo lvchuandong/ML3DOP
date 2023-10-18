@@ -1,4 +1,4 @@
-# MLDOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception
+# ML3DOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception
 
 ## 1. SENSOR SETUP
 ### 1.1 Acquisition Platform
@@ -21,7 +21,7 @@ All the sensors and their most important parameters are listed as below:
 
 **We make public ALL THE SEQUENCES with their imgs captured from 4 cameras and lidar_txt/lidar_pcd files now.**
 
-All the sequences are acquired in Shandong University, Qingdao, including indoor and outdoor scenes. Dataset link is: [MLDOP](https://pan.baidu.com/s/1gbmSz3IvnNdX-tPp6iJ0Kg?pwd=dpai)
+All the sequences are acquired in Shandong University, Qingdao, including indoor and outdoor scenes. Dataset link is: [ML3DOP](https://pan.baidu.com/s/1gbmSz3IvnNdX-tPp6iJ0Kg?pwd=dpai)
 
 <div align=center>
 <img src="img_readme/imgs.png" width="800px">
@@ -35,7 +35,7 @@ All the sequences are acquired in Shandong University, Qingdao, including indoor
 
 <p align="left">Figure 3. A lidar frame acquired by lidar.</p>
 
-An overview of MLDOP is given in the tables below:
+An overview of ML3DOP is given in the tables below:
 
 **Indoor**
 
