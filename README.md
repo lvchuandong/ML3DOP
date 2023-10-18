@@ -1,4 +1,4 @@
-# ML3DO: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception
+# ML3DOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception
 
 ## 1. SENSOR SETUP
 ### 1.1 Acquisition Platform
