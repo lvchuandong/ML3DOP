@@ -1,5 +1,8 @@
 # ML3DOP: A Multi-Camera and LiDAR Dataset for 3D Occupancy Perception
 
+## News
+- [2023/12]: Our paper [3DOPFormer: 3D Occupancy Perception from Multi-Camera Images with Directional and Distance Enhancement](https://ieeexplore.ieee.org/abstract/document/10363646) accepted by IEEE Transactions on Intelligent Vehicles
+
 ## 1. SENSOR SETUP
 ### 1.1 Acquisition Platform
 Physical drawings and schematics of the ground robot is given below.
